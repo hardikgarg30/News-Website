@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14f1d5c9-3fdb-4298-a4c3-2d1b8b2fa175" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2nyZ5JkMDajIvHXaJTiihFwRliL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/rishi/IdeaProjects/Leetcodeproblems",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14f1d5c9-3fdb-4298-a4c3-2d1b8b2fa175" name="Changes" comment="" />
+      <created>1729947091734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729947091734</updated>
+      <workItem from="1729947092795" duration="1851000" />
+      <workItem from="1729959378656" duration="5342000" />
+      <workItem from="1730030196661" duration="3160000" />
+      <workItem from="1730092205073" duration="431000" />
+      <workItem from="1730092720750" duration="11241000" />
+      <workItem from="1730196717659" duration="1338000" />
+      <workItem from="1730284170867" duration="846000" />
+      <workItem from="1730288928153" duration="508000" />
+      <workItem from="1730532295227" duration="2682000" />
+      <workItem from="1730650339871" duration="815000" />
+      <workItem from="1731315576264" duration="3375000" />
+      <workItem from="1731336000005" duration="1210000" />
+      <workItem from="1731726817054" duration="64000" />
+      <workItem from="1731726892255" duration="394000" />
+      <workItem from="1734411658362" duration="1268000" />
+      <workItem from="1734581079648" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
